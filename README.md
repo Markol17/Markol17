@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I'm currently looking for a software engineering internship for summer 2022!
-You can connect with me through LinkedIn: https://www.linkedin.com/in/mark-olivier-poulin-913aaa170/
+📫 You can connect with me through LinkedIn: https://www.linkedin.com/in/mark-olivier-poulin-913aaa170/
