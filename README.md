@@ -46,6 +46,6 @@ I'm Mark-Olivier Poulin a Full Stack Web Developer and a Software Engineering st
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markol17&layout=compact)](https://github.com/Markol17/github-readme-stats)
 
-![Markol17's github stats](https://github-readme-stats.vercel.app/api?username=Markol17&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Markol17's github stats](https://github-readme-stats.vercel.app/api?username=Markol17&count_private=true&theme=tokyonight)
 
 </details>
