@@ -32,7 +32,7 @@ Visitor count: </br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markol17&layout=compact&theme=outrun)](https://github.com/Markol17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markol17&layout=compact&theme=algolia)](https://github.com/Markol17/github-readme-stats)
 
-![Markol17's github stats](https://github-readme-stats.vercel.app/api?username=Markol17&count_private=true&show_icons=true&theme=outrun)
+![Markol17's github stats](https://github-readme-stats.vercel.app/api?username=Markol17&count_private=true&show_icons=true&theme=algolia)
 
