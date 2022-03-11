@@ -24,9 +24,6 @@ I'm Mark-Olivier Poulin a Full Stack Web Developer and a Software Engineering st
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![CircleCI](https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markol17&layout=compact)](https://github.com/Markol17/github-readme-stats)
-
-
 <!-- #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: ipenywis@gmail.com
@@ -46,6 +43,8 @@ I'm Mark-Olivier Poulin a Full Stack Web Developer and a Software Engineering st
 -->
 
 #### Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markol17&layout=compact)](https://github.com/Markol17/github-readme-stats)
 
 ![Markol17's github stats](https://github-readme-stats.vercel.app/api?username=Markol17&count_private=true&theme=tokyonight&hide=contribs,prs)
 
