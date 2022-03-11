@@ -26,6 +26,7 @@ I'm Mark-Olivier Poulin a Full Stack Web Developer and a Software Engineering st
 
 #### Github Stats
 
+Visitor count: </br> 
 ![Visitor Count](https://profile-counter.glitch.me/Markol17/count.svg)
 
 <!--START_SECTION:waka-->
