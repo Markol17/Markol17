@@ -1,6 +1,6 @@
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
-I'm Mark-Olivier Poulin a Full Stack Web Developer and a new grad software engineering student. I Spend most of my time coding projects or experimenting with new ideas.
+I am Mark-Olivier Poulin, a Full Stack Web Developer and a recent graduate of software engineering. I spend most of my time coding projects or experimenting with new ideas.
 
 :mailbox: Reach out!
 [![Linkedin Badge](https://img.shields.io/badge/MarkOlivier_Poulin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-olivier-poulin-913aaa170/)
