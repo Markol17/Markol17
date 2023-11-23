@@ -10,7 +10,7 @@ I am Mark-Olivier Poulin, a Full Stack Web Developer and a recent graduate of so
 <!-- - 🔭 I’m currently working at @Vooban -->
 - :computer: Most used line of code `git add .`
 - 📫 Email: markolivierpoulin@hotmail.com.
-- 🚧 Experimental project coming soon: [![PollHub](https://img.shields.io/badge/-PollHub-yellow)](https://www.pollhub.io)
+- 🚧 Experimental project coming soon: [![PollHub](https://img.shields.io/badge/-PollHub-yellow)](https://www.beta.pollhub.io)
 
 #### My Stack
 
