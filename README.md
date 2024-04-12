@@ -12,8 +12,6 @@ I am Mark-Olivier Poulin, a Full Stack Developer. I spend most of my time coding
 - 📫 Email: markolivierpoulin@hotmail.com.
 - 🚧 Experimental project coming soon -> [PollHub](https://beta.pollhub.io/) -> pwd: phftw
 
-#### Github Stats
-
 Visitor count: </br> 
 ![Visitor Count](https://profile-counter.glitch.me/Markol17/count.svg)
 
