@@ -8,7 +8,6 @@ I am Mark-Olivier Poulin, a Full Stack Developer. I spend most of my time coding
 <!-- TODO: Add last video link -->
 
 <!-- - 🔭 I’m currently working at @Vooban -->
-- :computer: Most used line of code `git add .`
 - 📫 Email: markolivierpoulin@hotmail.com.
 - 🚀 Checkout my project: [PollHub](https://pollhub.vote)
 
