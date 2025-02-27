@@ -4,7 +4,7 @@
 📫 Reach out on [Linkedin](https://www.linkedin.com/in/mark-olivier-poulin-913aaa170/)<br>
 📧 Email me at markolivierpoulin@hotmail.com<br>
 🚀 Checkout my side project: [PollHub](https://pollhub.vote)<br>
-🌐 For more information check out my [website](https://www.markolivierpoulin.com/)
+🌐 For more information, visit my [website](https://www.markolivierpoulin.com/)
 
 #### Visitor count: </br> 
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=markol17.visitor-badge"/>
