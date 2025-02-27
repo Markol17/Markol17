@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mark-Olivier Poulin, a Full-Stack Developer. I spend most of my time working on [stuff I find interesting](https://pollhub.vote).
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mark-Olivier Poulin, a Full-Stack Developer. I spend most of my time working on [stuff I find interesting](https://pollhub.vote).
 
 🔭 I’m currently working at [@Thirdbridge](https://www.thirdbridge.ca/en) as a mobile developer<br>
 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/mark-olivier-poulin-913aaa170/)<br>
