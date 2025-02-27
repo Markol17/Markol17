@@ -9,6 +9,6 @@
 #### Visitor count: </br> 
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=markol17.visitor-badge"/>
 
-#### Time spent coding: </br> 
+#### Time spent coding on personal projects: </br> 
 [![wakatime](https://wakatime.com/badge/user/2a28bd88-2b5f-47b4-a848-556d25a91216.svg)](https://wakatime.com/@2a28bd88-2b5f-47b4-a848-556d25a91216)
 
