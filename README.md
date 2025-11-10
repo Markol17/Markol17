@@ -3,7 +3,6 @@
 🔭 I’m currently working at [@Thirdbridge](https://www.thirdbridge.ca/en) as a mobile and full-stack developer<br>
 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/mark-olivier-poulin-913aaa170/)<br>
 📧 Email me at markolivierpoulin@hotmail.com<br>
-🚀 Checkout my side project: [PollHub](https://pollhub.vote)<br>
 🌐 For more information, visit my [website](https://www.markolivierpoulin.com/)
 
 #### Visitor count: </br> 
